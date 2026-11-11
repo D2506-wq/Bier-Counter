@@ -1,0 +1,10 @@
+
+{
+  "name": "Bier-Counter",
+  "short_name": "Bier-Counter",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#11141a",
+  "theme_color": "#12151b",
+  "description": "Dein persönlicher Bier-Counter"
+}
